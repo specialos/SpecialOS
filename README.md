@@ -1,4 +1,7 @@
-### Hi there 👋
+### SpecialOS - an open source BSD based operating system distribution
+
+The actual OS binaries and the source code can be obtained from our official website after the initial release. This repository will be containing SpecialOS 
+related utility software modules, Dockerfiles, etc. There is nothing to see yet, work in progress.
 
 <!--
 **specialos/SpecialOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
